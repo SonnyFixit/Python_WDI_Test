@@ -1,0 +1,7 @@
+PROGRAMOWANIE
+To jest test szyfru Gronsfelda.
+
+Ala ma kota! 123.
+XYZ xyz
+Polskie znaki: ąęłńóśźż (te znaki pozostaną bez zmian).
+Znaki specjalne: .,!?-()[]{} oraz spacje też pozostaną bez zmian.
